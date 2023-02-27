@@ -1,0 +1,21 @@
+{
+    "author": "BioShot aka Levi A.",
+    "gamesList": [
+        {
+            "name": "retro-bowl",
+            "icon": "rb.png"
+        },
+        {
+            "name": "geometry-dash",
+            "icon": "gd.png"
+        },
+        {
+            "name": "osu",
+            "icon": "osu.png"
+        },
+        {
+            "name": "Earthbound",
+            "icon": "earthbound.jpg"
+        }
+]
+}
